@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Hi, I'm Ajay 👋
+# Hi, I'm Mapplecode 👋
 
 ### Full-stack mobile & backend developer
 
