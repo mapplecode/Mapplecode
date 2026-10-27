@@ -93,7 +93,6 @@ gets the job done well and is easy to maintain.
 <div align="center">
 
 <!-- EDIT: change mapplecode to your GitHub username if different -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mapplecode&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mapplecode&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
